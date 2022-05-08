@@ -1,0 +1,25 @@
+.aaa{
+  color: red;
+}
+.casino{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.frame{
+  width: 300px;
+  height: 300px;
+  border: 2px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn{
+  width: 200px;
+  height: 50px;
+  background: aqua;
+  border: none;
+  margin: 30px;
+  border-radius: 10px;
+  cursor: pointer;
+}
